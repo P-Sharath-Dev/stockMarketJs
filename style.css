@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #0f0c29;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+/* background: #15152d; */
+#card-body{
+    background: #15152d;
+}
+.spanTextFormating{
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-left: 6%;
+}
+.width-25{
+    width: 25%;
+}
+.margin-10{
+    margin: 10%;
+}
